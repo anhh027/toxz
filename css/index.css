@@ -51,7 +51,7 @@ header ul li:nth-child(3) .cir div{
 /*header end*/
 /*zx_section1*/
 .zx_section1{width:100%;height:0.85rem;padding-left:0.23rem;padding-right:0.23rem;background:#fff;}
-.zx_section1 .zx_section1_left{width:2.5rem;height:100%;float:left;padding-top:0.165rem;margin-right:2.2rem;}
+.zx_section1 .zx_section1_left{width:2.5rem;height:100%;float:left;padding-top:0.165rem;}
 .zx_section1 .zx_section1_left a{display:block;}
 .zx_section1 .zx_section1_left a img{width:100%;}
 .zx_section1 .zx_section1_right{float:left;width:1.18rem;height:100%;line-height:0.85rem;}
